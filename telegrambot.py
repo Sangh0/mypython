@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from apscheduler.schedulers.blocking import BlockingScheduler
 
 # 내 토큰 설정
-my_token = '1623500470:AAEwlrFE2w0VqnMEJS7m4SJaV-dY561B-xI'
+my_token = '#################################'
 print('start telegram chat bot')
 
 # 링크 저장할 리스트
